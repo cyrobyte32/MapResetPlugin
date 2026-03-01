@@ -1,0 +1,7 @@
+name: MapResetPlugin
+version: '1.0'
+main: me.cyro.mapResetPlugin.MapResetPlugin
+api-version: '1.21'
+commands:
+  mineresetplugin:
+    description: Configure the source and target, and other properties.
